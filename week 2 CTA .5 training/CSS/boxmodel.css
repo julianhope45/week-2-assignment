@@ -1,0 +1,38 @@
+.ben,.shout,.love{
+    width: 200px;
+    height: 200px;
+    border-width: 4px;
+    border-style:solid;
+    padding: 20px;
+    margin: 40px;
+    
+}
+.ben{
+    border-color: black;
+}
+.shout{
+    border-color: rgb(247, 11, 11);
+}
+.love{
+    border-color: rgb(118, 196, 16);
+
+}
+
+.beauty{
+    display: flex;
+    justify-content: space-between;
+}
+.joy,.green,.meal{
+    width: 200px;
+    height: 200px;
+    border-width: 4px;
+    border-style:solid;
+    border-color: rgb(247, 11, 11);
+    padding: 20px;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcitinewsroom.com%2F2021%2F07%2Ffood-propaganda-food-myths-facts-article%2F&psig=AOvVaw3qeaHy-blXQ5qzBoqAgGSy&ust=1701040384828000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCo5bKj4IIDFQAAAAAdAAAAABAZ);
+}
+
+.mary{
+display: grid;
+justify-content: space-between;
+}
